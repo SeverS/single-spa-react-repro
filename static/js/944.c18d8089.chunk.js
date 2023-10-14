@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksingle_spa_react_repro=self.webpackChunksingle_spa_react_repro||[]).push([[944],{944:function(n,t,r){var o;r.r(t),r.d(t,{bootstrap:function(){return s},mount:function(){return p},unmount:function(){return l}});var e=r(791),u=r(310),c=r(250),a=r(184),i=(0,u.Z)({React:o||(o=r.t(e,2)),ReactDOMClient:c,rootComponent:function(n){var t=n.onClick;return(0,a.jsx)("button",{onClick:t,children:"Parcel Button"})}}),s=i.bootstrap,p=i.mount,l=i.unmount}}]);
+//# sourceMappingURL=944.c18d8089.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksingle_spa_react_repro=self.webpackChunksingle_spa_react_repro||[]).push([[333],{333:function(t,n,o){var e;o.r(n),o.d(n,{bootstrap:function(){return i},mount:function(){return p},unmount:function(){return l}});var r=o(791),u=o(310),a=o(250),s=o(184),c=(0,u.Z)({React:e||(e=o.t(r,2)),ReactDOMClient:a,rootComponent:function(){return(0,s.jsx)("div",{style:{position:"absolute"},children:"I'm a modal"})}}),i=c.bootstrap,p=c.mount,l=c.unmount}}]);
+//# sourceMappingURL=333.9bc93eb9.chunk.js.map
